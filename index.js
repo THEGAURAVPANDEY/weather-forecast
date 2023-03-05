@@ -75,7 +75,7 @@ function getdayFullName(num) {
     case 4:
       return "Thursday";
     case 5:
-      return "Fridayday";
+      return "Friday";
     case 6:
       return "Saturday";
     default:
